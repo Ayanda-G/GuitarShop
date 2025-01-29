@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Student\\2024\\CSIQ3734\\Unit 4\\Lecture 7\\Solution(33)\\Solution\\GuitarShop\\GuitarShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD6856B-975D-4A06-9118-295B319DEDC4}|GuitarShop\\GuitarShop.csproj|e:\\student\\2024\\csiq3734\\unit 4\\lecture 7\\solution(33)\\solution\\guitarshop\\guitarshop\\guitarshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAD6856B-975D-4A06-9118-295B319DEDC4}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD6856B-975D-4A06-9118-295B319DEDC4}|GuitarShop\\GuitarShop.csproj|e:\\student\\2024\\csiq3734\\unit 4\\lecture 7\\solution(33)\\solution\\guitarshop\\guitarshop\\guitarshop\\migrations\\20250129165102_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD6856B-975D-4A06-9118-295B319DEDC4}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\migrations\\20250129165102_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Student\\2024\\CSIQ3734\\Unit 4\\Lecture 7\\Solution(33)\\Solution\\GuitarShop\\GuitarShop\\GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Student\\2024\\CSIQ3734\\Unit 4\\Lecture 7\\Solution(33)\\Solution\\GuitarShop\\GuitarShop\\GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T19:41:58.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250129165102_Initial.cs",
+              "DocumentMoniker": "E:\\Student\\2024\\CSIQ3734\\Unit 4\\Lecture 7\\Solution(33)\\Solution\\GuitarShop\\GuitarShop\\GuitarShop\\Migrations\\20250129165102_Initial.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Migrations\\20250129165102_Initial.cs",
+              "ToolTip": "E:\\Student\\2024\\CSIQ3734\\Unit 4\\Lecture 7\\Solution(33)\\Solution\\GuitarShop\\GuitarShop\\GuitarShop\\Migrations\\20250129165102_Initial.cs",
+              "RelativeToolTip": "GuitarShop\\Migrations\\20250129165102_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:51:04.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
